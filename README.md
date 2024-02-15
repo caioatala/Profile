@@ -4,4 +4,4 @@ exercicios extras
 
 I'm learning how to create websites and now I'm going to manage my repositories!
 
- <a href="https://caioatala.github.io/Profile/"> open my profile </a>
+ <a href="https://caioatala.github.io/Profile/"> Open my profile </a>
