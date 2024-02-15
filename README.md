@@ -1,8 +1,7 @@
 # Profile
  Some projects with my profile and links to my profiles
 exercicios extras
- Curso de HTML 5 e CSS3 do CursoemVideo
 
- Estou aprendendo a criar sites e agora vou gerenciar meus repositorios!
+I'm learning how to create websites and now I'm going to manage my repositories!
 
- <a href="https://caioatala.github.io/exercicios/Recipe-page/index.html"> Abrir Projeto Recipe Page </a>
+ <a href="https://caioatala.github.io/Profile/"> open my profile </a>
